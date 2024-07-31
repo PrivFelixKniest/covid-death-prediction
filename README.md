@@ -38,7 +38,7 @@ which imports a pickled (exported) model and
 which dumps the last trained algorithm into a pickle file, uses the model to predict the challenges test.csv and stores both in the project directory.
 
 ## Produce your own model
-To produce your own model with the given dataset, it should suffice to clone the repo, install the necessary modules using pip (see imports in the notebook) and then execute the first and second cell in that order. <i>This is an older, unmaintaned notebook, correctness or functionality are neither guaranteed nor looked after.</i>
+To produce your own model with the given dataset, it should suffice to `clone` the repo, `install` the necessary modules using pip (see imports in the notebook) and then `execute` the first and second cell in that order. <i>This is an older, unmaintaned notebook, correctness or functionality are neither guaranteed nor looked after.</i>
 
 ## What could be improved?
 
